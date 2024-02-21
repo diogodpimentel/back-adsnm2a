@@ -41,7 +41,12 @@ git pull origin nome_da_branch
 7. Enviar alterações para o Github
 
 ```shell
-git push origin nome_ da branch
+git push origin nome_da_branch
 ```
 
+8. Fazer merge com outra branch
+```shell
+git checkout branch_base
+git merge branch_ comparaçao
+```
 
