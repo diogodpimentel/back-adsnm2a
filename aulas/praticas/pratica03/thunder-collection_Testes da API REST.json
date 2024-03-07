@@ -1,0 +1,29 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-07T22:29:19.749Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f846268a-9e6b-4d96-84f7-23ecd8be4ddc",
+            "colId": "14548206-d8f4-4ae1-856e-31cdbf0dcfc0",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products/101",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-03-07T22:26:17.029Z",
+            "modified": "2024-03-07T22:26:17.029Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"A Revolução dos Bichos\",\n  \"description\": \"Livro\",\n  \"price\": \"20\"\n}\n",
+                "form": []
+            },
+            "reqType": "post",
+            "tests": []
+        }
+    ]
+}
