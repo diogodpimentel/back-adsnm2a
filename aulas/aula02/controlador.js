@@ -5,9 +5,8 @@ const Produto = require('./modelo')
 const produtos = [];
 
 function listar() {
-    produtos.forEach(produto => 
-        console.log(produto.toString())
-    );
+    produtos.forEach(produto => console.log(produto.toString())
+    );  
 }
 
 function criar(){
