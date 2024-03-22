@@ -46,7 +46,7 @@ app.use(function(error, req, res, next){
 
 });
 
-
+//aplicação Express ouvir a porta 3000
 app.listen(3000, function(){
     console.log("API está ON");
 
